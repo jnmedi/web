@@ -21,16 +21,6 @@ var lyricsData = [
   { text: "ES LO PERFECTO PARA MIIIIII", time: 53 },
   { text: "TODOS SABEMOS QUE ES VERDAAAAAAAD", time: 57 },
   { text: "SOLO LO TIENES QUE ACEPTAR", time: 61 },
-  { text: "me habian regalado una caja de habanos", time: 71 },
-  { text: "y tu los lavaste quedaron mojados", time: 72 },
-  { text: "Le diste comer 3 veces al genaro", time: 73 },
-  { text: "y el pobre esta gordo se siente mareado", time: 74 },
-  { text: "Like water drops", time: 164 },
-  { text: "Where I'm now? I don't know why", time: 169 },
-  { text: "Nice butterflies in my hands", time: 176 },
-  { text: "Too much light for twilight", time: 183 },
-  { text: "In the mood for the flowers", time: 188 },
-  { text: "Love.", time: 140 },
 ];
 
 // Animar las letras
